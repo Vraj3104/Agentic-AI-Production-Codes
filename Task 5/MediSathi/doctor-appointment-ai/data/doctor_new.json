@@ -1,0 +1,1001 @@
+[
+  {
+    "Name": "Dr. Vinay Sakhuja",
+    "Degree": "MBBS, MD - Medicine, DM - Nephrology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1200",
+    "Years of Experience": "44",
+    "Speciality": "Nephrologist/Renal Specialist"
+  },
+  {
+    "Name": "Dr. Gaurav Saini",
+    "Degree": "MBBS, MS - Orthopaedics",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1100",
+    "Years of Experience": "18",
+    "Speciality": "Orthopedic surgeon"
+  },
+  {
+    "Name": "Dr. Munish Chauhan",
+    "Degree": "MBBS, MD - General Medicine, DM - Nephrology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1200",
+    "Years of Experience": "21",
+    "Speciality": "Nephrologist/Renal Specialist"
+  },
+  {
+    "Name": "Dr. Jasmeet Singh",
+    "Degree": "MBBS, DNB - General Medicine",
+    "Location": "Sector- 68",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "22",
+    "Speciality": "Internal Medicine, General Physician, Consultant Physician"
+  },
+  {
+    "Name": "Dr. Shikha Verma",
+    "Degree": "DNB - Dermatology & Venereology, MD - Dermatology , Venereology & Leprosy, MBBS",
+    "Location": "Sector- 69",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 600",
+    "Years of Experience": "28",
+    "Speciality": "Dermatologist, Venereologist, Aesthetic Dermatologist"
+  },
+  {
+    "Name": "Dr. Ruchi Bansal",
+    "Degree": "MBBS, MS - Obstetrics & Gynaecology",
+    "Location": "Phase 10",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 400",
+    "Years of Experience": "13",
+    "Speciality": "Gynecologist, Obstetrician"
+  },
+  {
+    "Name": "Dr. R S Rai",
+    "Degree": "MBBS, MS - General Surgery, MCh - Urology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "38",
+    "Speciality": "Sexologist, Urologist"
+  },
+  {
+    "Name": "Dr. Anshu Syed",
+    "Degree": "MBBS, DNB - Obstetrics & Gynecology",
+    "Location": "SAS Nagar",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "18",
+    "Speciality": "Gynecologist, Obstetrician"
+  },
+  {
+    "Name": "Dr. Mukesh Vats",
+    "Degree": "MBBS, MS - Ophthalmology",
+    "Location": "Phase 8",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1100",
+    "Years of Experience": "25",
+    "Speciality": "Ophthalmologist/ Eye Surgeon"
+  },
+  {
+    "Name": "Dr. Pooja Modgil",
+    "Degree": "BAMS",
+    "Location": "Kharar",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "24",
+    "Speciality": "AYUSHAyurveda"
+  },
+  {
+    "Name": "Dr. Akhil Gupta",
+    "Degree": "BDS, MDS - Conservative Dentistry & Endodontics",
+    "Location": "Sector- 69",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "13",
+    "Speciality": "Endodontist, Cosmetic/Aesthetic Dentist"
+  },
+  {
+    "Name": "Dr. Saran Gill",
+    "Degree": "BDS, MDS - Orthodontics and Dentofacial Orthopaedics",
+    "Location": "Phase 10",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "16",
+    "Speciality": "Orthodontist, Dentofacial Orthopedist, Cosmetic/Aesthetic Dentist"
+  },
+  {
+    "Name": "Dr. Ravi Kant Behl",
+    "Degree": "MBBS, MD - Medicine",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1300",
+    "Years of Experience": "38",
+    "Speciality": "General Physician"
+  },
+  {
+    "Name": "Dr. Saran Gill",
+    "Degree": "BDS, MDS - Orthodontics and Dentofacial Orthopaedics",
+    "Location": "Phase 10",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "16",
+    "Speciality": "Orthodontist, Dentofacial Orthopedist, Cosmetic/Aesthetic Dentist"
+  },
+  {
+    "Name": "Dr. Emmy Grewal",
+    "Degree": "DM - Endocrinology, MD - Medicine, MBBS",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1100",
+    "Years of Experience": "25",
+    "Speciality": "Endocrinologist"
+  },
+  {
+    "Name": "Dr. Vikram Lahoria",
+    "Degree": "MD - Dermatology , Venereology & Leprosy, MBBS",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 600",
+    "Years of Experience": "12",
+    "Speciality": "Dermatologist, Aesthetic Dermatologist, Cosmetologist"
+  },
+  {
+    "Name": "Dr. Sachin Goyal",
+    "Degree": "BDS, MDS - Periodontics",
+    "Location": "Sector 60",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "19",
+    "Speciality": "Periodontist, Cosmetic/Aesthetic Dentist, Implantologist, Dentist"
+  },
+  {
+    "Name": "Dr. Navkaran Singh Sandhu",
+    "Degree": "MBBS",
+    "Location": "Sohana",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "13",
+    "Speciality": "General Physician"
+  },
+  {
+    "Name": "Dr. Manmohan Singh Bedi",
+    "Degree": "MBBS, MS - General Surgery, DNB - Surgical Gastroenterology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1200",
+    "Years of Experience": "30",
+    "Speciality": "GastroIntestinal Surgeon, Bariatric Surgeon, Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Gaurav Malik",
+    "Degree": "BDS, MDS - Periodontology and Oral Implantology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 900",
+    "Years of Experience": "21",
+    "Speciality": "Dentist, Periodontist, Implantologist, Cosmetic/Aesthetic Dentist"
+  },
+  {
+    "Name": "Dr. Navkaran Singh Sandhu",
+    "Degree": "MBBS",
+    "Location": "Sohana",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "13",
+    "Speciality": "General Physician"
+  },
+  {
+    "Name": "Dr. Simranjeet Kaur",
+    "Degree": "MPTh/MPT - Cardiovascular & Pulmonary Physiotherapy",
+    "Location": "Phase 10",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 450",
+    "Years of Experience": "11",
+    "Speciality": "TherapistPhysiotherapist"
+  },
+  {
+    "Name": "Dr. Ajaysingh Avtar Bhambri",
+    "Degree": "MBBS, DNB - Orthopedics/Orthopedic Surgery",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 900",
+    "Years of Experience": "28",
+    "Speciality": "Orthopedic surgeon"
+  },
+  {
+    "Name": "Dr. Shikha Verma",
+    "Degree": "DNB - Dermatology & Venereology, MD - Dermatology , Venereology & Leprosy, MBBS",
+    "Location": "Sector- 69",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 600",
+    "Years of Experience": "28",
+    "Speciality": "Dermatologist, Venereologist, Aesthetic Dermatologist"
+  },
+  {
+    "Name": "Dr. Gurbakhshish Singh Sidhu",
+    "Degree": "MBBS, DM - Gastroenterology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 900",
+    "Years of Experience": "23",
+    "Speciality": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Manish Singla",
+    "Degree": "MBBS, DM - Nephrology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1200",
+    "Years of Experience": "16",
+    "Speciality": "Nephrologist/Renal Specialist"
+  },
+  {
+    "Name": "Dr. Ravi Kant Behl",
+    "Degree": "MBBS, MD - Medicine",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1300",
+    "Years of Experience": "38",
+    "Speciality": "General Physician"
+  },
+  {
+    "Name": "Dr. Sandeep Parekh",
+    "Degree": "MBBS, MD - General Medicine, DNB - Cardiology, MNAMS - Cardiology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1200",
+    "Years of Experience": "16",
+    "Speciality": "Cardiologist, General Physician"
+  },
+  {
+    "Name": "Dr. Ankur Vats",
+    "Degree": "MDS - Conservative Dentistry & Endodontics, BDS",
+    "Location": "Kharar",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "17",
+    "Speciality": "Endodontist, Implantologist, Dentist"
+  },
+  {
+    "Name": "Dr. Sartaaj Singh Buttar",
+    "Degree": "MBBS, MS - ENT",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 700",
+    "Years of Experience": "22",
+    "Speciality": "ENT/ Otorhinolaryngologist"
+  },
+  {
+    "Name": "Dr. Vijaya Gupta",
+    "Degree": "MBBS, MS - Obstetrics & Gynaecology",
+    "Location": "Phase 10",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "21",
+    "Speciality": "Gynecologist, Obstetrician"
+  },
+  {
+    "Name": "Dr. Deepak Puri",
+    "Degree": "MBBS, MS - General Surgery, MCh - Cardio Thoracic and Vascular Surgery",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1300",
+    "Years of Experience": "36",
+    "Speciality": "Cardiac Surgeon"
+  },
+  {
+    "Name": "Dr. Sudha Gupta",
+    "Degree": "BDS, MDS - Prosthodontics",
+    "Location": "Sector- 69",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "11",
+    "Speciality": "Cosmetic/Aesthetic Dentist, Implantologist, Dental Surgeon"
+  },
+  {
+    "Name": "Dr. Manu Sharma",
+    "Degree": "MD - Pediatrics, MBBS",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 900",
+    "Years of Experience": "12",
+    "Speciality": "Pediatrician"
+  },
+  {
+    "Name": "Dr. Pankaj Kumar",
+    "Degree": "MBBS, MD - Radiotherapy",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1100",
+    "Years of Experience": "23",
+    "Speciality": "Radiation Oncologist"
+  },
+  {
+    "Name": "Dr. Chandandeep Singh Sandhu",
+    "Degree": "MBBS",
+    "Location": "Sector-61",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "20",
+    "Speciality": "General Physician, Sexologist"
+  },
+  {
+    "Name": "Dr. Garima Goyal",
+    "Degree": "BDS, MDS - Orthodontics",
+    "Location": "Sector 60",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "19",
+    "Speciality": "Orthodontist, Dentofacial Orthopedist, Dentist, Dental Surgeon"
+  },
+  {
+    "Name": "Dr. Priyanka Goyal",
+    "Degree": "BDS, MDS - Paedodontics And Preventive Dentistry",
+    "Location": "Phase 10",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "14",
+    "Speciality": "Dentist, Pediatric Dentist"
+  },
+  {
+    "Name": "Dr. Jasmeet Singh",
+    "Degree": "MBBS, DNB - General Medicine",
+    "Location": "Sector- 68",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "22",
+    "Speciality": "Internal Medicine, General Physician, Consultant Physician"
+  },
+  {
+    "Name": "Dr. Abhideep Chaudhary",
+    "Degree": "MBBS, MS - General Surgery",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1300",
+    "Years of Experience": "23",
+    "Speciality": "General Surgeon"
+  },
+  {
+    "Name": "Dr. Kanwar Sidharth",
+    "Degree": "BDS, MDS - Conservative Dentistry & Endodontics",
+    "Location": "Phase 10",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "18",
+    "Speciality": "Endodontist, Dental Surgeon, Dentist"
+  },
+  {
+    "Name": "Dr. Sajal Kakkar",
+    "Degree": "MBBS, MD - Radiotherapy",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1100",
+    "Years of Experience": "20",
+    "Speciality": "Radiation Oncologist"
+  },
+  {
+    "Name": "Dr. Ashish Gupta",
+    "Degree": "MBBS, MS - General Surgery, MCh - Neuro Surgery",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 900",
+    "Years of Experience": "26",
+    "Speciality": "Neurosurgeon"
+  },
+  {
+    "Name": "Dr. Anjali Shrivastava Vats",
+    "Degree": "MDS - Conservative Dentistry & Endodontics, BDS",
+    "Location": "Kharar",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "17",
+    "Speciality": "Endodontist, Implantologist"
+  },
+  {
+    "Name": "Dr. Harbans Bansal",
+    "Degree": "MBBS, MS - General Surgery, MCh - Urology",
+    "Location": "Phase 10",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "13",
+    "Speciality": "Urologist"
+  },
+  {
+    "Name": "Dr. Karan Dhawan",
+    "Degree": "MBBS, M.D. (Psychiatry)",
+    "Location": "Sector- 73",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "10",
+    "Speciality": "Psychiatrist"
+  },
+  {
+    "Name": "Dr. Kamna Nagpal",
+    "Degree": "MBBS, DGO, MD - Obstetrics & Gynaecology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 900",
+    "Years of Experience": "29",
+    "Speciality": "Obstetrician, Gynecologist"
+  },
+  {
+    "Name": "Dr. Rashmi Pandove",
+    "Degree": "MBBS, MD - Pediatrics",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1100",
+    "Years of Experience": "19",
+    "Speciality": "Pediatrician"
+  },
+  {
+    "Name": "Dr. Sandeep Parekh",
+    "Degree": "MBBS, MD - General Medicine, DNB - Cardiology, MNAMS - Cardiology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1200",
+    "Years of Experience": "16",
+    "Speciality": "Cardiologist, General Physician"
+  },
+  {
+    "Name": "Dr. Garima Goyal",
+    "Degree": "BDS, MDS - Orthodontics",
+    "Location": "Sector 60",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "19",
+    "Speciality": "Orthodontist, Dentofacial Orthopedist, Dentist, Dental Surgeon"
+  },
+  {
+    "Name": "Dr. Narendar Mohan Gupta",
+    "Degree": "MBBS, MS - General Surgery",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1200",
+    "Years of Experience": "60",
+    "Speciality": "General Surgeon"
+  },
+  {
+    "Name": "Dr. Deepak Bhasin",
+    "Degree": "MBBS, MD - Tuberculosis & Respiratory Diseases/Medicine",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1300",
+    "Years of Experience": "28",
+    "Speciality": "Tuberculous and chest Diseases Specialist"
+  },
+  {
+    "Name": "Dr. Chandandeep Singh Sandhu",
+    "Degree": "MBBS",
+    "Location": "Sector-61",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "20",
+    "Speciality": "General Physician, Sexologist"
+  },
+  {
+    "Name": "Dr. Nikhil Anil Nadkarni",
+    "Degree": "MBBS, MD - Medicine, DM - Gastroenterology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1300",
+    "Years of Experience": "25",
+    "Speciality": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Sunil Gupta",
+    "Degree": "MBBS, M.D. (Psychiatry)",
+    "Location": "Sector 55",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1200",
+    "Years of Experience": "17",
+    "Speciality": "Psychiatrist, Addiction Psychiatrist, Psychotherapist"
+  },
+  {
+    "Name": "Dr. Sanjay Kumar Mishra",
+    "Degree": "MBBS, MD - Medicine, DM - Neurology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1300",
+    "Years of Experience": "26",
+    "Speciality": "Neurologist"
+  },
+  {
+    "Name": "Dr. Bhupinder Pal",
+    "Degree": "BDS, MDS - Prosthodontist And Crown Bridge",
+    "Location": "Phase 10",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "14",
+    "Speciality": "Dental Surgeon, Implantologist, Prosthodontist"
+  },
+  {
+    "Name": "Dr. Atul Sachdev",
+    "Degree": "MBBS, MD - Medicine, DM - Gastroenterology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1300",
+    "Years of Experience": "38",
+    "Speciality": "Gastroenterologist"
+  },
+  {
+    "Name": "Dr. Rishi Dhawan",
+    "Degree": "MBBS, MS - General Surgery, MCh - Plastic Surgery",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "16",
+    "Speciality": "Plastic Surgeon, Cosmetologist"
+  },
+  {
+    "Name": "Dr. Arpinder Singh Gill",
+    "Degree": "MBBS, MD - Pediatrics",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1300",
+    "Years of Experience": "31",
+    "Speciality": "Pediatrician"
+  },
+  {
+    "Name": "Dr. Sannidhya Varma",
+    "Degree": "M.D. (Psychiatry), MBBS",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1200",
+    "Years of Experience": "18",
+    "Speciality": "Psychiatrist, Addiction Psychiatrist"
+  },
+  {
+    "Name": "Dr. Jagdish Sethi",
+    "Degree": "MBBS, MS - General Surgery",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1100",
+    "Years of Experience": "18",
+    "Speciality": "General Surgeon"
+  },
+  {
+    "Name": "Dr. Savita",
+    "Degree": "MD - Pediatrics, MBBS",
+    "Location": "Sector - 70",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "13",
+    "Speciality": "Pediatrician"
+  },
+  {
+    "Name": "Dr. Abhay Kalra",
+    "Degree": "MBBS, MS - General Surgery, MCh - Urology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 900",
+    "Years of Experience": "18",
+    "Speciality": "Urologist, Andrologist"
+  },
+  {
+    "Name": "Dr. Sachin Goyal",
+    "Degree": "BDS, MDS - Periodontics",
+    "Location": "Sector 60",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "19",
+    "Speciality": "Periodontist, Cosmetic/Aesthetic Dentist, Implantologist, Dentist"
+  },
+  {
+    "Name": "Dr. Jibin Babu",
+    "Degree": "M.D. (Psychiatry), MBBS",
+    "Location": "Kharar",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 400",
+    "Years of Experience": "11",
+    "Speciality": "Psychiatrist"
+  },
+  {
+    "Name": "Dr. Harpreet Kaur Sidhu",
+    "Degree": "MBBS, MD - Obstetrics & Gynaecology, DNB - Obstetrics & Gynecology, FNB - Reproductive Medicine, MRCOG(UK)",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 700",
+    "Years of Experience": "19",
+    "Speciality": "Infertility Specialist, Laparoscopic Surgeon (Obs & Gyn), Gynecologist"
+  },
+  {
+    "Name": "Dr. Surya Kant Mathur",
+    "Degree": "MBBS, MD - Pediatrics, DM - Endocrinology",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1200",
+    "Years of Experience": "42",
+    "Speciality": "Endocrinologist"
+  },
+  {
+    "Name": "Dr. Akanksha Sharda",
+    "Degree": "MDS - Prosthodontist And Crown Bridge, BDS",
+    "Location": "Phase 10",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "13",
+    "Speciality": "Implantologist, Prosthodontist, Dentist"
+  },
+  {
+    "Name": "Dr. Amandeep Singh Sandhu",
+    "Degree": "MBBS, MS - General Surgery, MCh - Surgical Gastroenterology/G.I. Surgery",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "16",
+    "Speciality": "Laparoscopic Surgeon, GastroIntestinal Surgeon"
+  },
+  {
+    "Name": "Dr. Arjun Dass",
+    "Degree": "MBBS, DNB - Otorhinolaryngology, MS - ENT",
+    "Location": "Phase-VI",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 1300",
+    "Years of Experience": "42",
+    "Speciality": "ENT/ Otorhinolaryngologist"
+  },
+  {
+    "Name": "Dr. Vijay Pal Singh",
+    "Degree": "MBBS, DNB - Urology/Genito - Urinary Surgery, MS - General Surgery",
+    "Location": "Kharar",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "12",
+    "Speciality": "Urologist"
+  },
+  {
+    "Name": "Dr. Ankur Vats",
+    "Degree": "MDS - Conservative Dentistry & Endodontics, BDS",
+    "Location": "Kharar",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "17",
+    "Speciality": "Endodontist, Implantologist, Dentist"
+  },
+  {
+    "Name": "Dr. Timsi Gupta",
+    "Degree": "MDS - Conservative Dentistry & Endodontics, BDS",
+    "Location": "Phase 10",
+    "City": "Mohali",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "11",
+    "Speciality": "Endodontist, Dentist"
+  },
+  {
+    "Name": "Dr. Suman Reddy",
+    "Degree": "BDS, MSc - Master of Oral Implantology (MOI), Fellowship and Diplomate in Implantology from ICOI (USA)",
+    "Location": "Kadubeesanahalli",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 600",
+    "Years of Experience": "21",
+    "Speciality": "Dentist, Cosmetic/Aesthetic Dentist, Implantologist"
+  },
+  {
+    "Name": "Dr. Kalpana Janardan",
+    "Degree": "MBBS, DNB - General Medicine",
+    "Location": "Bannerghatta Road",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 850",
+    "Years of Experience": "25",
+    "Speciality": "Internal Medicine"
+  },
+  {
+    "Name": "Dr. Pramod Kumar Maurya   (Physiotherapist)",
+    "Degree": "BPTh/BPT",
+    "Location": "Domlur",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "11",
+    "Speciality": "TherapistPhysiotherapist"
+  },
+  {
+    "Name": "Dr. Soumya KN",
+    "Degree": "MBBS, MS - Obstetrics & Gynaecology",
+    "Location": "Kengeri",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 700",
+    "Years of Experience": "14",
+    "Speciality": "Laparoscopic Surgeon (Obs & Gyn), Gynecologist"
+  },
+  {
+    "Name": "Dr. Nida Shaik",
+    "Degree": "BDS",
+    "Location": "Sahakaranagar",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "10",
+    "Speciality": "Cosmetic/Aesthetic Dentist"
+  },
+  {
+    "Name": "Dr. G Srividya Reddy",
+    "Degree": "MBBS, MS - Obstetrics & Gynaecology",
+    "Location": "Marathahalli",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 900",
+    "Years of Experience": "13",
+    "Speciality": "Obstetrician, Gynecologist"
+  },
+  {
+    "Name": "Dr. Jayarami Reddy",
+    "Degree": "MBBS",
+    "Location": "Electronics City",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 600",
+    "Years of Experience": "11",
+    "Speciality": "General Physician"
+  },
+  {
+    "Name": "Dr. Raghavendra R",
+    "Degree": "MBBS, DNB - Anaesthesia, MD - Anaesthesiology",
+    "Location": "Hebbal",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "23",
+    "Speciality": "Pain Management Specialist, Anesthesiologist"
+  },
+  {
+    "Name": "Dr. Mahendra K P",
+    "Degree": "BDS",
+    "Location": "Banashankari 1st Stage",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "23",
+    "Speciality": "Dentist"
+  },
+  {
+    "Name": "Dr. Sandeep Satsangi",
+    "Degree": "DM - Hepatology, MD - General Medicine, MBBS",
+    "Location": "Seshadripuram",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 740",
+    "Years of Experience": "13",
+    "Speciality": "Hepatologist"
+  },
+  {
+    "Name": "Dr. Ranjitha G Babu",
+    "Degree": "MBBS, MS - Obstetrics & Gynaecology",
+    "Location": "Rajajinagar",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 600",
+    "Years of Experience": "17",
+    "Speciality": "Gynecologist, Obstetrician, Laparoscopic Surgeon (Obs & Gyn), Infertility Specialist"
+  },
+  {
+    "Name": "Dr. Kavitha J",
+    "Degree": "BDS",
+    "Location": "Bannerghatta Road",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "27",
+    "Speciality": "Dental Surgeon, Implantologist"
+  },
+  {
+    "Name": "Dr. Ananth G.",
+    "Degree": "MBBS, MS - General Surgery, MCh - Neuro Surgery",
+    "Location": "Ashoknagar",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 800",
+    "Years of Experience": "21",
+    "Speciality": "Neurosurgeon"
+  },
+  {
+    "Name": "Dr. Santhosh",
+    "Degree": "MBBS, MS - General Surgery, MCh - Neuro Surgery",
+    "Location": "Hebbal",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "16",
+    "Speciality": "Neurosurgeon"
+  },
+  {
+    "Name": "Dr. Kumar Prabhu",
+    "Degree": "MBBS, MS - General Surgery, DNB - Urology/Genito - Urinary Surgery",
+    "Location": "Padmanabhanagar",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 750",
+    "Years of Experience": "26",
+    "Speciality": "Urologist, Urological Surgeon"
+  },
+  {
+    "Name": "Dr. G R Chandra Sekhar   (Physiotherapist)",
+    "Degree": "BPTh/BPT",
+    "Location": "Padmanabhanagar",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 450",
+    "Years of Experience": "18",
+    "Speciality": "TherapistPhysiotherapist"
+  },
+  {
+    "Name": "Dr. Priti Venkatesh",
+    "Degree": "MBBS, MD - Obstetrics & Gynaecology, DGO",
+    "Location": "Old Airport Road",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 900",
+    "Years of Experience": "39",
+    "Speciality": "Infertility Specialist, Obstetrician, Gynecologist"
+  },
+  {
+    "Name": "Dr. Muralidhara KA",
+    "Degree": "M.D. (Psychiatry), MBBS",
+    "Location": "Vijayanagar",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 800",
+    "Years of Experience": "10",
+    "Speciality": "Psychiatrist, General Physician"
+  },
+  {
+    "Name": "Dr. Poonam Prakash Kamble",
+    "Degree": "MBBS, Diploma in Child Health (DCH)",
+    "Location": "Whitefield",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 850",
+    "Years of Experience": "15",
+    "Speciality": "Pediatrician"
+  },
+  {
+    "Name": "Dr. Kishore Babu S",
+    "Degree": "MBBS, MD - Pediatrics, DNB - Nephrology",
+    "Location": "Old Airport Road",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 1100",
+    "Years of Experience": "33",
+    "Speciality": "Nephrologist/Renal Specialist"
+  },
+  {
+    "Name": "Dr. Sandhya Ghode",
+    "Degree": "MBBS, MS - Obstetrics & Gynaecology",
+    "Location": "Indiranagar",
+    "City": "Bangalore",
+    "Consult Fee": "",
+    "Years of Experience": "10",
+    "Speciality": "Gynecologist, Obstetrician"
+  },
+  {
+    "Name": "Dr. Shivekshith A K",
+    "Degree": "MDS - Conservative Dentistry & Endodontics",
+    "Location": "HSR Layout",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "10",
+    "Speciality": "Endodontist"
+  },
+  {
+    "Name": "Dr. Krishna Shama Rao",
+    "Degree": "BDS, MDS - Oral & Maxillofacial Surgery, MBBS, FRCS - Oral and Maxillofacial Surgery, FDSRCS - Fellowship in Dental Surgery",
+    "Location": "Kengeri",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "43",
+    "Speciality": "Craniofacial Surgeon, Oral And MaxilloFacial Surgeon"
+  },
+  {
+    "Name": "Dr. Shuba Walsalam",
+    "Degree": "BHMS",
+    "Location": "Jayanagar 4 Block",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "22",
+    "Speciality": "AYUSHHomoeopath"
+  },
+  {
+    "Name": "Dr. Udaybhaskar M",
+    "Degree": "MBBS, MS - General Surgery, MCh - Urology",
+    "Location": "Jayanagar 9 Block",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 750",
+    "Years of Experience": "18",
+    "Speciality": "Urologist, Andrologist, Urological Surgeon"
+  },
+  {
+    "Name": "Dr. Sanjeev Kumar Hiremath",
+    "Degree": "MBBS, MD - General Medicine, DM - Nephrology",
+    "Location": "Jayanagar",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 800",
+    "Years of Experience": "26",
+    "Speciality": "Nephrologist/Renal Specialist"
+  },
+  {
+    "Name": "Dr. Kavitha K B",
+    "Degree": "BDS",
+    "Location": "Sahakaranagar",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "21",
+    "Speciality": "Dentist, Cosmetic/Aesthetic Dentist"
+  },
+  {
+    "Name": "Dr. Prity Bhagat Lohia",
+    "Degree": "BDS, MDS - Periodontics",
+    "Location": "BTM Layout 1st Stage",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 400",
+    "Years of Experience": "13",
+    "Speciality": "Dental Surgeon, Periodontist, Implantologist"
+  },
+  {
+    "Name": "Dr. Anirban Chatterjee",
+    "Degree": "BDS, MDS - Periodontics",
+    "Location": "Jayanagar 9 Block",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 500",
+    "Years of Experience": "30",
+    "Speciality": "Dentist, Periodontist, Implantologist"
+  },
+  {
+    "Name": "Ms. Nafeesa Imteyaz",
+    "Degree": "MSc. - Dietetics & Food Service Management",
+    "Location": "Indiranagar",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "28",
+    "Speciality": "TherapistDietitian/Nutritionist"
+  },
+  {
+    "Name": "Dr. Asha Praveena",
+    "Degree": "BDS, MDS - Periodontics",
+    "Location": "Kaggadasapura",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "15",
+    "Speciality": "Periodontist, Implantologist, Cosmetic/Aesthetic Dentist"
+  },
+  {
+    "Name": "Dr. Raghavendra Chikkatur",
+    "Degree": "MBBS, MS - General Surgery, MCh - Cardio Thoracic Surgery",
+    "Location": "Kengeri",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 700",
+    "Years of Experience": "23",
+    "Speciality": "Cardiothoracic Surgeon, Thoracic (Chest) Surgeon"
+  },
+  {
+    "Name": "Dr. Akshitha Ratnakara Shetty",
+    "Degree": "MBBS, MD - Dermatology , Venereology & Leprosy",
+    "Location": "Indiranagar",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 600",
+    "Years of Experience": "14",
+    "Speciality": "Dermatologist, Hair Transplant Surgeon, Aesthetic Dermatologist, Trichologist, Cosmetologist"
+  },
+  {
+    "Name": "Dr. Shwetha H P",
+    "Degree": "MBBS, DVD",
+    "Location": "Sarjapur Road",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 650",
+    "Years of Experience": "11",
+    "Speciality": "Dermatologist"
+  },
+  {
+    "Name": "Dr. Balakrishna S",
+    "Degree": "MBBS, MS - General Surgery, MCh - Surgical Gastroenterology/G.I. Surgery, DNB - General Surgery",
+    "Location": "Millers Road",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "15",
+    "Speciality": "GastroIntestinal Surgeon"
+  },
+  {
+    "Name": "Dr. Suhas Prabhakar",
+    "Degree": "BDS, MDS - Oral & Maxillofacial Surgery",
+    "Location": "Bannerghatta Road",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 300",
+    "Years of Experience": "14",
+    "Speciality": "Oral And MaxilloFacial Surgeon"
+  },
+  {
+    "Name": "Dr. Divya Prahlad",
+    "Degree": "BDS, MDS - Paedodontics And Preventive Dentistry",
+    "Location": "Indiranagar",
+    "City": "Bangalore",
+    "Consult Fee": "Rs. 1000",
+    "Years of Experience": "15",
+    "Speciality": "Pediatric Dentist, Dentist"
+  }
+]
